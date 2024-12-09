@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marco", "Marco\Marco.csproj", "{EAA6680E-FC34-481C-9F9F-DD65420D5578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcoDataAccess", "MarcoDataAccess\MarcoDataAccess.csproj", "{48B44D73-1527-4689-870C-31793D1550D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcoModels", "MarcoModels\MarcoModels.csproj", "{22A954AD-11BA-4069-82E0-0232B0FB491B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA6680E-FC34-481C-9F9F-DD65420D5578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA6680E-FC34-481C-9F9F-DD65420D5578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA6680E-FC34-481C-9F9F-DD65420D5578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA6680E-FC34-481C-9F9F-DD65420D5578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B44D73-1527-4689-870C-31793D1550D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B44D73-1527-4689-870C-31793D1550D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B44D73-1527-4689-870C-31793D1550D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B44D73-1527-4689-870C-31793D1550D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A954AD-11BA-4069-82E0-0232B0FB491B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A954AD-11BA-4069-82E0-0232B0FB491B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A954AD-11BA-4069-82E0-0232B0FB491B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A954AD-11BA-4069-82E0-0232B0FB491B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
